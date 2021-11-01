@@ -6,8 +6,6 @@ Created on Mon Nov  1 14:45:06 2021
 """
 
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Importa dados da tabela CSV com delimitador ";"
 dados = pd.read_csv("C:/Users/walla/Desktop/mba/fundamentos-estatistica/ex-1-tabela-frequencias.csv", sep=";")
