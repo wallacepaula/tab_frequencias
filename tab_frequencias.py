@@ -21,7 +21,7 @@ def tab_frequencias(data, col_agg, col_count, n_decimals):
     col_agg : str
         Nome da coluna que quer agrupar
     col_count : str
-        Nome da coluna com a quantidade de cada agrupamento
+        Nome da coluna em que será realizada a contagem de observações
     n_decimals: int
         Número de casas decimais
 
